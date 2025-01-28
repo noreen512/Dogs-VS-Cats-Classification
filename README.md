@@ -18,7 +18,8 @@ Skills Demonstrated:
 •	Python Programming
 •	TensorFlow and Keras
 •	Data Preprocessing
-GitHub URL: Dogs vs Cats Classification
+
+
 Required Skill Set:
 •	Understanding of CNN architectures
 •	Proficiency in Python
@@ -27,4 +28,6 @@ Required Skill Set:
  
  
 Summary: The project classifies images of dogs and cats using a dataset of labeled images. It includes preprocessing the dataset, building a CNN model, and evaluating the performance using metrics like accuracy.
+
+
 Background Information: This project was inspired by Kaggle’s famous "Dogs vs Cats" dataset. It was designed to explore the application of deep learning in solving binary classification problems in computer vision.
